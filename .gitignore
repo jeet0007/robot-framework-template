@@ -7,7 +7,6 @@ temp/
 */.ipynb_checkpoints/*
 .virtual_documents/
 */.virtual_documents/*
-.vscode
 .DS_Store
 *.pyc
 *.zip
@@ -15,7 +14,5 @@ temp/
 testrun/*
 .~lock*
 *.pkl
-# vs-code
-.vscode/*
 Log/selenium-screenshot-*
 Log/Regression/selenium-screenshot-*
